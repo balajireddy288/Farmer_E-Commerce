@@ -1,1 +1,1 @@
-# Farmer E_commerce Apllication
+# Farmer E_commerce Application
